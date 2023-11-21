@@ -12,6 +12,7 @@ function TicketItem({ ticket }) {
       <Link to={`/ticket/${ticket._id}`} className="btn btn-reverse btn-sm">
         View
       </Link>
+      <button className="Delete">Delete</button>
     </div>
   );
 }
