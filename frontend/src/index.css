@@ -191,6 +191,16 @@ form {
   justify-content: center;
 }
 
+.Delete{
+  background-color: white;
+  color: black;
+  padding: 5px 15px;
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+
 .btn svg {
   margin-right: 8px;
 }
